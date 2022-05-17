@@ -5,5 +5,5 @@ Desenvolvimento de uma página que captura os dados através de um formulário, 
 Atualizando o repositório do github com essa
 atualização.
 
-### Professor otario
-Vou subir pro git pq ele nunca vai perceber
+### Eu estou dando meu primeiro commit
+como eu faço um commit | git commit -m "seu comentário aqui"
